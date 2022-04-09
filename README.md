@@ -141,3 +141,4 @@ Extract optimal policy:
 
     π*(s) = argmax_a [ R(s, a) + γ ∑_{s'} P(s' | s, a) V*(s') ]
  
+ 
